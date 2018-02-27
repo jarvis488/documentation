@@ -1,0 +1,8 @@
+{ 
+  "dependencies":
+  { "@google-cloud/bigquery": "^1.0.0",
+   "@google-cloud/pubsub": "^0.16.2", 
+   "@google-cloud/storage": "^1.5.2", 
+   "typeof": "^1.0.0"
+  } 
+}
